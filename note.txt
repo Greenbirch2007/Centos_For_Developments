@@ -1,0 +1,26 @@
+
+1.网络配置(无线网络)
+
+2.安装python3.6
+
+3.安装pycharm
+
+
+4.安装谷歌浏览器
+
+5.安装中文输入法
+
+
+6.安装U盘识别的驱动
+yum update
+yum install gtfs-3g
+
+7.安装办公软件
+
+8.安装teamviewer
+
+9.安装Mysql以及可视化工具
+
+10.安装git
+
+11.安装ssh
